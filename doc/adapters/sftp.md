@@ -1,7 +1,7 @@
 ### Documentation for Gaufrette SFTP adapter
 
 *N.B.* SFTP adapter is not recommended to use due to https://bugs.php.net/bug.php?id=64169. It is recommended to use
-[PHPSeclibSFTP adapter](phpseclib_sftp.md) instead.
+[phpseclib SFTP adapter](phpseclib_sftp.md) instead.
 
 #### Prerequisites
 

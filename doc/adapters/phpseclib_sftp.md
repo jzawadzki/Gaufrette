@@ -1,7 +1,6 @@
-### Documentation for Gaufrette phpseclib adapter
+### Documentation for Gaufrette phpseclib SFTP adapter
 
-*N.B.* It is recommended to use this adapter over [SFTP]()
-[PHPSeclibSFTP adapter](phpseclib_sftp.md) instead.
+*N.B.* It is recommended to use this adapter over [SFTP](ftp.md) instead.
 
 #### Prerequisites
 

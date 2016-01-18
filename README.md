@@ -115,8 +115,8 @@ The third parameter of the cache adapter is the time to live of the cache.
 Documentation for adapters
 --------------------------
 
-* SFTP adapter (not recommended)
-* SFTP adapter (not recommended)
+* [SFTP adapter](doc/adapters/sftp.md) (not recommended, use PHPSeclib instead)
+* [phpseclib SFTP adapter](doc/adapters/phpseclib_sftp.md)
 
 Using Amazon S3
 ---------------
