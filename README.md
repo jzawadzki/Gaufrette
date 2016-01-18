@@ -112,6 +112,12 @@ $filesystem = new Filesystem($cachedFtp);
 
 The third parameter of the cache adapter is the time to live of the cache.
 
+Documentation for adapters
+--------------------------
+
+* SFTP adapter (not recommended)
+* SFTP adapter (not recommended)
+
 Using Amazon S3
 ---------------
 When using the legacy Amazon S3 adapters, you will need to specify a CA
